@@ -1,0 +1,12 @@
+.env
+node_modules/
+*.prompt.txt
+ref/
+# rejected image drafts (kept locally, not shipped)
+assets/hero-awning.png
+assets/hero-awning2.png
+assets/interior-lattice.png
+assets/lasagna.png
+assets/alfredo.png
+assets/scratch-kitchen.png
+_verify.html
